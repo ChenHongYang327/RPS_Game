@@ -1,0 +1,8 @@
+"won" = "You Won!";
+"lost" = "You Lost!";
+"draw" = "It's a Draw!";
+"alertTitle" = "Clean";
+"alertMsg" = "Do you want to clean the score?";
+"okTitle" = "ok";
+"cancelTitle" = "cancel";
+

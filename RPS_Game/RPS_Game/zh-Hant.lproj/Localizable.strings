@@ -1,0 +1,8 @@
+"won" = "你贏了!";
+"lost" = "你輸了!";
+"draw" = "平手唷!";
+"alertTitle" = "重置通知";
+"alertMsg" = "你是否真的要重置分數?";
+"okTitle" = "確定";
+"cancelTitle" = "取消";
+

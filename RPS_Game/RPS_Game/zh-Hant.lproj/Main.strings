@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "50e-Tt-zxG"; */
+"50e-Tt-zxG.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "✊"; ObjectID = "Ec4-vB-dRt"; */
+"Ec4-vB-dRt.normalTitle" = "✊";
+
+/* Class = "UIButton"; normalTitle = "Reset Score"; ObjectID = "GVD-ow-gyV"; */
+"GVD-ow-gyV.normalTitle" = "重置分數";
+
+/* Class = "UIButton"; normalTitle = "Play again"; ObjectID = "OXq-1c-jkm"; */
+"OXq-1c-jkm.normalTitle" = "重新一局";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PZE-CC-n5j"; */
+"PZE-CC-n5j.text" = "0";
+
+/* Class = "UILabel"; text = "Win："; ObjectID = "TQJ-uo-95C"; */
+"TQJ-uo-95C.text" = "贏：";
+
+/* Class = "UILabel"; text = "🤖"; ObjectID = "Wfy-qN-rdk"; */
+"Wfy-qN-rdk.text" = "🤖";
+
+/* Class = "UIButton"; normalTitle = "✋"; ObjectID = "X1Q-wg-RrQ"; */
+"X1Q-wg-RrQ.normalTitle" = "✋";
+
+/* Class = "UILabel"; text = "Draw："; ObjectID = "bD6-9E-rXK"; */
+"bD6-9E-rXK.text" = "平手：";
+
+/* Class = "UILabel"; text = "Lose："; ObjectID = "brz-Ps-GZj"; */
+"brz-Ps-GZj.text" = "輸：";
+
+/* Class = "UIButton"; normalTitle = "✌️"; ObjectID = "f0j-wA-Chr"; */
+"f0j-wA-Chr.normalTitle" = "✌️";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qS3-kI-Pfa"; */
+"qS3-kI-Pfa.text" = "0";
+
+/* Class = "UILabel"; text = "Paper-Scissors-Rock"; ObjectID = "vrs-d1-g0i"; */
+"vrs-d1-g0i.text" = "剪刀 - 石頭 - 布 ~";

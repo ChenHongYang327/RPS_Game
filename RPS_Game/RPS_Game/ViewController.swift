@@ -86,6 +86,7 @@ extension ViewController {
     
     func gameReset (){
         tvRobot.text = "🤖"
+        tvResult.text = NSLocalizedString("result", comment: "")
         
         tvRock.isHidden = false
         tvPaper.isHidden = false

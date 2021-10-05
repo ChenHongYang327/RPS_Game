@@ -109,7 +109,7 @@
                                 <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="68" id="7bZ-kN-2XT"/>
-                                    <constraint firstAttribute="width" constant="174" id="AMR-9a-VT2"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="174" id="AMR-9a-VT2"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Play again">
